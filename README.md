@@ -1,8 +1,5 @@
 
-****Important****
-
-	After importing the "fitness_app" SQL file, please change to your own MySQL database data source, port, username, and password ‌as necessary in the "db_connection.cs" class of my project.
-
+# Important
 
  private static string connectionString = "Server=localhost;Database=fitness_app;Username=root;Password=;";
  
