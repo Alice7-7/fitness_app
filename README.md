@@ -14,8 +14,8 @@ The followings are testing data for my system.
 User
 Alice
 
-Username      -	Alice
-Password      -	Alice12345678
+> Username      -	Alice
+> Password      -	Alice12345678
 
 ___________________________________________________________________________________
 
